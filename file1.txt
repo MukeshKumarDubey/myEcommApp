@@ -1,0 +1,5 @@
+This is file1
+Today is Sunday
+Welcome Everyone
+bye
+Adding a new line
